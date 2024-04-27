@@ -1,4 +1,4 @@
-baseURL: https://a-abakus.github.io/
+baseURL: "https://a-abakus.github.io/"
 languageCode: en-us
 title: abakus
 theme: "PaperMod"
