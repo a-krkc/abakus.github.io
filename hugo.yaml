@@ -8,13 +8,13 @@ menu:
   main:
     - identifier: "about"
       name: "About"
-      url: "\\about\\"
+      url: "/about/"
     - identifier: "posts"
       name: "Posts"
-      url: "\\posts\\"
+      url: "/posts/"
     - identifier: "search"
       name: "Search"
-      url: "\\search\\"
+      url: "/search/"
 
 params:
   homeInfoParams:
