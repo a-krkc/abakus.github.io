@@ -14,7 +14,7 @@ menu:
       url: "/posts/"
     - identifier: "search"
       name: "Search"
-      url: "/search/"
+      url: "../search/"
 
 params:
   homeInfoParams:
@@ -42,6 +42,6 @@ params:
   # ShowPostNavLinks: true
 
   #  editPost:
-  #    URL: "https://github.com/a-krkc"
+  #    URL: "https://"
   #    Text: "Suggest Changes"
   #    appendFilePath: true
