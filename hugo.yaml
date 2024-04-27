@@ -1,6 +1,6 @@
 baseURL: "https://a-abakus.github.io/"
 languageCode: en-us
-title: abakus
+title: abaküs
 theme: "PaperMod"
 paginate: 5
 
@@ -12,9 +12,9 @@ menu:
     - identifier: "posts"
       name: "Posts"
       url: "/posts/"
-    - identifier: Search
-      name: Search
-      url: search
+    # - identifier: Search
+    #   name: Search
+    #   url: search
 
 params:
   homeInfoParams:
