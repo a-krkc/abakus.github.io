@@ -1,4 +1,4 @@
-baseURL: https://abakus/
+baseURL: https://a-abakus.github.io/
 languageCode: en-us
 title: abakus
 theme: "PaperMod"
@@ -23,7 +23,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/a-krkc"
+      url: "https://github.com/a-abakus"
     - name: linkedin
       url: "https://www.linkedin.com/in/abdullatifkurkcu/"
 
