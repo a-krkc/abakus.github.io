@@ -12,9 +12,9 @@ menu:
     - identifier: "posts"
       name: "Posts"
       url: "/posts/"
-    - identifier: "search"
-      name: "Search"
-      url: "/search/"
+    - identifier: Search
+      name: Search
+      url: search
 
 params:
   homeInfoParams:
