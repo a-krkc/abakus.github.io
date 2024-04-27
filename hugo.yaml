@@ -8,10 +8,10 @@ menu:
   main:
     - identifier: "about"
       name: "About"
-      url: "/about/"
+      url: "../about/"
     - identifier: "posts"
       name: "Posts"
-      url: "/posts/"
+      url: "../posts/"
     - identifier: "search"
       name: "Search"
       url: "../search/"
@@ -19,7 +19,7 @@ menu:
 params:
   homeInfoParams:
     Title: "Welcome"
-    Content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu nisl nunc mi ipsum faucibus vitae aliquet. Fermentum posuere urna nec tincidunt praesent. In eu mi bibendum neque egestas congue quisque egestas. Turpis egestas sed tempus urna et pharetra pharetra massa. Nullam non nisi est sit amet. Arcu felis bibendum ut tristique et egestas quis ipsum. Facilisi morbi tempus iaculis urna id. Urna porttitor rhoncus dolor 
+    Content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu nisl nunc mi ipsum faucibus vitae aliquet. Fermentum posuere urna nec tincidunt praesent. In eu mi bibendum neque egestas congue quisque egestas. Turpis egestas sed tempus urna et pharetra pharetra massa. Nullam non nisi est sit amet. Arcu felis bibendum ut tristique et egestas quis ipsum. Facilisi morbi tempus iaculis urna id. Urna porttitor rhoncus dolor
 
   socialIcons:
     - name: github
@@ -36,7 +36,6 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-
 
   ShowCodeCopyButtons: true
   # ShowPostNavLinks: true
